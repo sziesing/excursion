@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+/*Header Section*/
+header h1 {
+    font-size: 50px;
+}
