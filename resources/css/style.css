@@ -24,3 +24,12 @@ header h1 {
     display: flex;
     justify-content: space-around;
 }
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    color: gray;
+}
